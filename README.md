@@ -10,6 +10,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
+2. Add reown Project ID to environment variables
+  ```bash
+   EXPO_PUBLIC_WALLETCONNECT_CLOUD_PROJECT_ID=[YOUR_ID_HERE]
+  ```
+
 2. Start the app
 
    ```bash
